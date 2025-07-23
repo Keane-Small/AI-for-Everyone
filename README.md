@@ -58,3 +58,13 @@ Recent advancements in computing power and data availability have enabled better
 ### Guidelines for Selecting AI Projects
 •	Simpler concepts that require less mental effort are more likely to be feasible for AI implementation.
 •	Having a large dataset for both inputs and outputs increases the chances of successfully building a machine learning system.
+
+
+### In supervised learning, the key components include:
+
+Labeled Data: This means that the input data (features) is paired with the correct output (labels). For example, in a dataset of images of cats and dogs, each image would be labeled as either "cat" or "dog."
+
+Learning Process: The algorithm learns from this labeled data to make predictions on new, unseen data. It tries to find patterns that relate the input to the output.
+
+Evaluation: After training, the model is tested on a separate set of data to see how well it predicts the outcomes.
+In contrast, unsupervised learning does not use labeled data. Instead, it tries to find patterns or groupings in the data without any specific output to guide it.
