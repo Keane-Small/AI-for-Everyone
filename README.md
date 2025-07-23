@@ -1,6 +1,25 @@
 # AI-for-Everyone
 
 
+## Understanding Machine Learning
+
+Machine learning is a key tool in AI, primarily involving input-output mappings known as supervised learning.
+Examples include spam filters (email classification), speech recognition (audio to text), and machine translation (language conversion).
+
+## Applications of Supervised Learning
+
+Supervised learning is crucial in online advertising, predicting user engagement with ads.
+It also plays a role in self-driving cars (detecting other vehicles) and visual inspection in manufacturing (identifying defects).
+The Rise of Large Language Models
+
+Large language models (LLMs) like ChatGPT use supervised learning to predict the next word in a sequence based on extensive text data.
+Training involves creating multiple input-output pairs from sentences to enhance prediction accuracy.
+
+## Factors Driving AI Performance
+
+The performance of AI systems improves significantly with more data and larger neural networks.
+Recent advancements in computing power and data availability have enabled better training of AI models, leading to breakthroughs in generative AI.
+
 
 ## Machine Learning vs. Data Science
 •	Machine learning involves creating systems that learn from data to make predictions or decisions, often resulting in software that operates continuously.
