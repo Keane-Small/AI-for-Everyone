@@ -1,6 +1,16 @@
 # AI-for-Everyone
 
 
+## Understanding AI
+
+AI is transforming industries and is expected to generate significant economic value, with estimates of $13 to $22 trillion annually by 2033.
+The course distinguishes between artificial narrow intelligence (ANI), which performs specific tasks, and the broader goal of artificial general intelligence (AGI), which aims to replicate human cognitive abilities.
+
+## Applications and Limitations of AI
+
+The course emphasizes the practical applications of ANI in various fields, such as software, retail, and transportation, while also addressing the limitations and challenges of AI technologies.
+It highlights the importance of understanding both the successes and failures of AI to make informed decisions about its implementation.
+
 ## Understanding Machine Learning
 
 Machine learning is a key tool in AI, primarily involving input-output mappings known as supervised learning.
