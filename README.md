@@ -125,3 +125,13 @@ The training set consists of labeled examples that help the AI learn the mapping
 Avoid expecting 100% accuracy due to limitations in machine learning technology, insufficient data, and potential data quality issues.
 Discuss with AI engineers to determine a reasonable accuracy target that balances technical and business needs.
 
+### AI Team Roles
+
+Software Engineers: Responsible for writing specialized software for tasks like executing commands in smart devices or ensuring the reliability of self-driving car software.
+Machine Learning Engineers: Focus on developing algorithms, training models, and ensuring accurate outputs through data analysis and iterative processes.
+
+### Machine Learning Research and Data Management
+
+Machine Learning Researchers: Aim to advance the state of the art in machine learning, often conducting research that may or may not lead to published papers.
+Data Scientists: Analyze data to provide insights and support business decision-making, with roles evolving to include tasks similar to those of Machine Learning Engineers.
+
