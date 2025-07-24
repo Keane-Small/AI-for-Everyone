@@ -68,3 +68,19 @@ Learning Process: The algorithm learns from this labeled data to make prediction
 
 Evaluation: After training, the model is tested on a separate set of data to see how well it predicts the outcomes.
 In contrast, unsupervised learning does not use labeled data. Instead, it tries to find patterns or groupings in the data without any specific output to guide it.
+
+## Week 2
+
+### Key Steps in a Machine Learning Project
+
+Collect Data: Gather audio recordings of people saying the target word (e.g., "Alexa") and other words for comparison.
+Train the Model: Use a machine learning algorithm to learn the mapping from audio input to the expected output, iterating multiple times to improve accuracy.
+Deployment and Iteration
+
+### Deploy the Model: Implement the trained model in a smart device and release it to users. Monitor its performance with real-world data.
+Iterate for Improvement: Use feedback and new data to refine the model, addressing issues like regional accents that may affect recognition.
+
+### Application to Other Projects
+
+Self-Driving Cars Example: Similar steps apply, such as collecting images and their corresponding outputs (e.g., car positions) to train the model for detecting vehicles.
+
