@@ -84,3 +84,14 @@ Iterate for Improvement: Use feedback and new data to refine the model, addressi
 
 Self-Driving Cars Example: Similar steps apply, such as collecting images and their corresponding outputs (e.g., car positions) to train the model for detecting vehicles.
 
+### Key Steps in a Data Science Project
+
+Data Collection: Gather data on user interactions, such as website visits and geographical information, to understand user behavior.
+Data Analysis: Analyze the collected data to identify factors affecting performance, such as shipping costs or seasonal shopping trends.
+
+### Application of Data Science in Manufacturing
+
+Data Collection: Collect data on manufacturing processes, including material properties and environmental conditions, to monitor production quality.
+Data Analysis: Use insights from the data to optimize manufacturing processes, reducing defects and improving efficiency.
+Overall, the key steps of a data science project involve collecting data, analyzing it, suggesting hypotheses and actions, and continuously reanalyzing new data to enhance outcomes.
+
