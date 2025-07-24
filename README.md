@@ -110,3 +110,18 @@ In-House vs. Outsourcing: Decide whether to build AI solutions internally or out
 Industry Standards: Avoid building solutions that are industry standards; instead, leverage existing solutions to focus resources on unique projects that provide a competitive advantage.
 This structured approach helps identify promising AI projects and ensures that resources are allocated effectively.
 
+### Understanding Acceptance Criteria
+
+Clearly specify acceptance criteria for the project, such as achieving a certain accuracy level (e.g., 95% accuracy in defect detection).
+Provide a dataset for measuring performance, known as a test set, which should include labeled images for evaluation.
+
+### Data Organization in AI Projects
+
+AI teams utilize two main datasets: the training set (for learning) and the test set (for evaluation).
+The training set consists of labeled examples that help the AI learn the mapping from input (images) to output (labels).
+
+### Challenges and Realistic Expectations
+
+Avoid expecting 100% accuracy due to limitations in machine learning technology, insufficient data, and potential data quality issues.
+Discuss with AI engineers to determine a reasonable accuracy target that balances technical and business needs.
+
