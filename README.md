@@ -95,3 +95,18 @@ Data Collection: Collect data on manufacturing processes, including material pro
 Data Analysis: Use insights from the data to optimize manufacturing processes, reducing defects and improving efficiency.
 Overall, the key steps of a data science project involve collecting data, analyzing it, suggesting hypotheses and actions, and continuously reanalyzing new data to enhance outcomes.
 
+### Due Diligence for AI Projects
+
+Technical Diligence: Assess the feasibility of the AI system by consulting experts and reviewing literature to determine if the desired performance levels are achievable.
+Business Diligence: Evaluate the potential value of the project for the business, including cost savings and revenue generation, often using financial models to quantify benefits.
+
+### Ethical Considerations
+
+Ethical Diligence: Consider the societal impact of the AI project to ensure it contributes positively to humanity, alongside technical and business evaluations.
+
+### Build vs. Buy Decision
+
+In-House vs. Outsourcing: Decide whether to build AI solutions internally or outsource them, noting that data science projects are often better done in-house due to their close ties to business operations.
+Industry Standards: Avoid building solutions that are industry standards; instead, leverage existing solutions to focus resources on unique projects that provide a competitive advantage.
+This structured approach helps identify promising AI projects and ensures that resources are allocated effectively.
+
