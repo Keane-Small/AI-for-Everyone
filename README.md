@@ -220,3 +220,18 @@ Public-private partnerships can accelerate AI advancements in regulated sectors,
 
 Investing in education is crucial for developing a skilled AI workforce.
 Leadership is essential during technological disruptions to guide nations in adopting AI for the benefit of their citizens and the global community.
+
+### Job Displacement and Creation
+
+McKinsey estimates that AI could displace 400 to 800 million jobs by 2030, while Goldman Sachs suggests a lower figure of 300 million by 2033.
+Despite concerns about job loss, many studies indicate that AI may create even more jobs than it displaces, emphasizing the need for reskilling.
+
+### Automation Potential
+
+The likelihood of job displacement is assessed by analyzing the tasks involved in various professions, such as radiology and taxi driving.
+Generative AI has expanded the range of jobs susceptible to automation, particularly in writing and communication roles.
+
+### Navigating the Future of Work
+
+Solutions proposed include conditional basic income to support learning and development, fostering a lifelong learning culture, and exploring political solutions for job creation and fair treatment.
+Individuals are encouraged to combine their existing expertise with AI knowledge to enhance their career prospects in the evolving job market.
