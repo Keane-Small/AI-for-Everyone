@@ -169,3 +169,19 @@ Researchers suggest zeroing out biased numerical representations in AI.
 Using diverse and inclusive training data can help create fairer AI systems.
 Implementing transparency and auditing processes allows for the identification and correction of biases.
 A diverse workforce can contribute to recognizing and addressing bias in AI development.
+
+### Understanding Adversarial Attacks
+
+AI systems can be easily fooled by minor changes to input data, which are often imperceptible to humans.
+An example illustrates how a slight alteration to an image can lead an AI to misclassify it entirely.
+
+### Examples of Adversarial Attacks
+
+Researchers have demonstrated that physical modifications, like wearing special glasses or placing stickers on stop signs, can deceive AI systems.
+These attacks highlight the differences in perception between humans and AI, leading to potential safety risks in applications like self-driving cars.
+
+### Defending Against Adversarial Attacks
+
+The AI community is actively researching ways to enhance defenses against these attacks, though such measures may slow down AI systems.
+There is an ongoing "arms race" between attackers and defenders in AI, similar to the dynamics seen in spam filtering and fraud detection.
+Overall, while adversarial attacks pose significant challenges, not all AI applications are equally vulnerable, and many are less likely to be targeted.
