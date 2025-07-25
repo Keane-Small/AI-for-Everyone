@@ -150,3 +150,20 @@ When ready, appoint an AI leader to guide the company's AI strategy, but startin
 Engage with your CEO or Board about the potential value of AI for the company, asking if becoming proficient in AI would enhance effectiveness and value.
 Begin with manageable tasks and gradually expand your AI initiatives, leveraging the tools and knowledge acquired from the course.
 
+### Understanding AI Bias
+
+AI can learn unhealthy stereotypes from text data, leading to biased outputs in analogies (e.g., associating women with homemakers instead of computer programmers).
+The way AI represents words using numerical values can contribute to these biases.
+
+### Examples of AI Bias
+
+AI hiring tools have discriminated against women, leading to their discontinuation.
+Facial recognition systems may perform better for lighter-skinned individuals, creating unfair outcomes for darker-skinned individuals.
+Loan approval systems have shown bias against minority ethnic groups.
+
+### Solutions to Reduce Bias
+
+Researchers suggest zeroing out biased numerical representations in AI.
+Using diverse and inclusive training data can help create fairer AI systems.
+Implementing transparency and auditing processes allows for the identification and correction of biases.
+A diverse workforce can contribute to recognizing and addressing bias in AI development.
