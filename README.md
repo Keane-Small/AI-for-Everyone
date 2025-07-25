@@ -150,6 +150,8 @@ When ready, appoint an AI leader to guide the company's AI strategy, but startin
 Engage with your CEO or Board about the potential value of AI for the company, asking if becoming proficient in AI would enhance effectiveness and value.
 Begin with manageable tasks and gradually expand your AI initiatives, leveraging the tools and knowledge acquired from the course.
 
+## Week 4
+
 ### Understanding AI Bias
 
 AI can learn unhealthy stereotypes from text data, leading to biased outputs in analogies (e.g., associating women with homemakers instead of computer programmers).
