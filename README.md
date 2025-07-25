@@ -135,3 +135,18 @@ Machine Learning Engineers: Focus on developing algorithms, training models, and
 Machine Learning Researchers: Aim to advance the state of the art in machine learning, often conducting research that may or may not lead to published papers.
 Data Scientists: Analyze data to provide insights and support business decision-making, with roles evolving to include tasks similar to those of Machine Learning Engineers.
 
+### Next Steps in AI
+
+Collaborate with friends or colleagues to learn about AI together, such as taking this course or forming a reading group.
+Start small projects with the knowledge gained, as even minor initiatives can lead to significant learning and success.
+
+### Building AI in Your Company
+
+Consider hiring machine learning or data science professionals to support your AI efforts, along with in-house training for existing staff.
+When ready, appoint an AI leader to guide the company's AI strategy, but starting with a few skilled individuals can also be effective.
+
+### AI Transformation Discussion
+
+Engage with your CEO or Board about the potential value of AI for the company, asking if becoming proficient in AI would enhance effectiveness and value.
+Begin with manageable tasks and gradually expand your AI initiatives, leveraging the tools and knowledge acquired from the course.
+
